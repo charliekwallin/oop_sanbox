@@ -2,9 +2,9 @@
 
 class Student {
 
-  var $first_name;
-  var $last_name;
-  var $country = "Iceland";
+var $first_name;
+var $last_name;
+var $country = "Iceland";
 
 }
 
